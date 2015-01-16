@@ -1,0 +1,2 @@
+/Users/jason/Downloads/Tasky/Android_Starter/TaskyAndroid/bin/Debug/TaskyAndroid.dll
+/Users/jason/Downloads/Tasky/Android_Starter/Tasky.Core/bin/Debug/Tasky.Core.Anroid.dll
